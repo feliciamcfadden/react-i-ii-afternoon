@@ -1,0 +1,66 @@
+.name-container{
+
+    margin-left: 100px;
+    margin-bottom: 40px;
+    width: 700px;
+    
+}
+
+
+.name {
+
+    border-bottom: 2px solid #34A5DA;
+    width: 40%;
+}
+
+.about-container{
+
+    margin-left: 100px;
+    margin-bottom: 40px;
+}
+.from-container{
+
+    height:20px;
+}
+
+.from{ 
+
+    position: relative;
+    left: 60px;
+    bottom: 38px;
+    
+    
+}
+
+.title-container{
+
+    height:20px;
+}
+
+.title{
+    position: relative;
+    left: 90px;
+    bottom: 38px;
+
+
+}
+
+.employer-container{
+
+    height:20px;
+}
+
+.employer{
+
+    position: relative;
+    left: 95px;
+    bottom: 38px;
+}
+.movies-container{
+
+    margin-left: 100px;
+}
+.movies{
+
+    margin-left: 130px;
+}
